@@ -5,10 +5,10 @@ This project demonstrates various MongoDB queries to interact with a products co
 
 ## Setup Instructions
 1. **Install MongoDB**:
+   Follow instructions in MongoDB website
 
-2. **Run Queries**:
-   - Open your MongoDB shell or connect to your MongoDB instance using a GUI tool.
-   - Copy and paste the provided queries to interact with the products collection and observe the results.
+3. **Run Queries**:
+   Run Queries in MongoDB Shell
 
 ## Queries
 Refer to the "MongoDB Queries and Solutions" (in a seperate file) file in this repo for examples of each query.
